@@ -1,0 +1,3 @@
+name = "linghangzhizao"
+main = "src/main.jsx"  # 改成框架真实入口（比如 src/main.jsx）
+compatibility_date = "2025-07-30"
